@@ -14,11 +14,11 @@ body{
 }
 td a{
     text-decoration: none;
-    color:lightpink;
+    color:white;
     font-size:18px;
 }
 td a:hover{
-    color:white;
+    color:#7A378B;
 }
 #left{
     position:absolute;

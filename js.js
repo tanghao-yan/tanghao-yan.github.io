@@ -20,7 +20,7 @@ function left(bool){
                 break;
     }
     go();
-    timmer = setInterval(go,2000);
+    timmer = setInterval(go,4000);
 }
 //写一个函数来显示图片
 function show(m){
@@ -42,4 +42,4 @@ function go(){
     show(m);
 }
 //使用定时器让函数动起来
-timmer = setInterval(go,1000);
+timmer = setInterval(go,3000);
